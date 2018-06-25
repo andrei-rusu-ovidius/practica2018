@@ -7,5 +7,10 @@ Aici sunt adunate informațiile necesare pentru efectuarea practicii de producț
 * Impplementarea unui algoritm (în orice limbaj de programare)
 * Scrierea documetației (LaTeX, Markdown)
 
+## Activități preliminare
+1. Crearea unui cont pe [github](https://github.com/)
+2. Crearea unui cont pe [writelatex.com](https://www.writelatex.com/signup?ref=c49639198953)
+
+
 
 
